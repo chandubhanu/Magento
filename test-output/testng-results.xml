@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-06T20:41:24 IST" name="Default suite" finished-at="2024-08-06T20:41:30 IST" duration-ms="6182">
+  <suite started-at="2024-08-07T20:25:29 IST" name="Default suite" finished-at="2024-08-07T20:25:39 IST" duration-ms="9496">
     <groups>
     </groups>
-    <test started-at="2024-08-06T20:41:24 IST" name="Default test" finished-at="2024-08-06T20:41:30 IST" duration-ms="6182">
+    <test started-at="2024-08-07T20:25:29 IST" name="Default test" finished-at="2024-08-07T20:25:39 IST" duration-ms="9496">
       <class name="Loginpage.Loginpagetestcases">
-        <test-method is-config="true" signature="launch()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-06T20:41:24 IST" name="launch" finished-at="2024-08-06T20:41:30 IST" duration-ms="5912" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-07T20:25:29 IST" name="launch" finished-at="2024-08-07T20:25:36 IST" duration-ms="6892" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="login()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-06T20:41:30 IST" name="login" finished-at="2024-08-06T20:41:30 IST" duration-ms="6" status="PASS">
+        <test-method signature="login()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-07T20:25:36 IST" name="login" finished-at="2024-08-07T20:25:38 IST" duration-ms="2375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-06T20:41:30 IST" name="logout" finished-at="2024-08-06T20:41:30 IST" duration-ms="208" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:Loginpage.Loginpagetestcases@10d68fcd]" started-at="2024-08-07T20:25:38 IST" name="logout" finished-at="2024-08-07T20:25:39 IST" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
