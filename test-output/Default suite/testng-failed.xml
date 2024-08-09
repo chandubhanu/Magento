@@ -6,8 +6,8 @@
       <class name="Loginpage.Loginpagetestcases">
         <methods>
           <include name="logout"/>
+          <include name="launch"/>
           <include name="login"/>
-          <include name="launchurl"/>
         </methods>
       </class> <!-- Loginpage.Loginpagetestcases -->
     </classes>
